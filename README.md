@@ -2,6 +2,8 @@
 
 Insert the purpose of this project and some interesting info here...
 
+> :exclamation: You need to install [LM Studio](https://lmstudio.ai/) before you can use this application and install the necessary models `llama-3.2-1b-instruct` and `qwen2-vl-2b-instruct`. Please also make sure to turn on the CORS option in the LM Studio server.
+
 ## Description
 
 This app demonstrates a TypeScript setup for developing UI5 applications. The central entry point for all information about using TypeScript with UI5 is at [https://sap.github.io/ui5-typescript](https://sap.github.io/ui5-typescript).
